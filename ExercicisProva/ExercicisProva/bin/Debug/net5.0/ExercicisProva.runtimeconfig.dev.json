@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marki\\.nuget\\packages",
+      "M:\\Visual Studio Community 2019\\Components, herramientas y SDK\\NuGetPackages"
+    ]
+  }
+}
